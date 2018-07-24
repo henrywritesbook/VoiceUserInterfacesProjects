@@ -53,6 +53,6 @@ Here is the quick description of the directory structures and the files:
 **NodeJs** - Back-end RESP API that serves media content JSON. Implement GET podcasts method.
 **ressources** - Podcast files in MP3 and cover images.
 **MyPodCast.sln** - Use it to open Android Auto Xmarin project.
-## Special thanks
+## Special Thanks
 Thank you [Zepto Segundo](https://www.facebook.com/zeptosegundo) for providing the podcasts for Chapter 10. Three podcasts and the cover image are based on [Memorias de Tiempos Perdidos](https://open.spotify.com/album/3rQzhEkevd2iAZ9j5Rvlnv): 
 Andromeda, Morir Con Honor and Ars Chimica.
