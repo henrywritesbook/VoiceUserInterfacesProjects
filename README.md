@@ -1,6 +1,6 @@
 # Voice User Interfaces Projects
 
-Contains all the codes for my book Voice User Interfaces Projects for Packt publishing. You can find my book at [https://www.packtpub.com/web-development/voice-user-interfaces-projects](Contains%20all%20the%20codes%20for%20my%20book%20Voice%20User%20Interfaces%20Projects%20for%20Packt%20publishing.%20You%20can%20find%20my%20book%20at%20https://www.packtpub.com/web-development/voice-user-interfaces-projects)
+Contains all the codes for my book Voice User Interfaces Projects for Packt publishing. You can find my book at [https://www.packtpub.com/web-development/voice-user-interfaces-projects](https://www.packtpub.com/web-development/voice-user-interfaces-projects)
 
 Here is the quick description of the directory structures and the files:
 
@@ -53,3 +53,6 @@ Here is the quick description of the directory structures and the files:
 **NodeJs** - Back-end RESP API that serves media content JSON. Implement GET podcasts method.
 **ressources** - Podcast files in MP3 and cover images.
 **MyPodCast.sln** - Use it to open Android Auto Xmarin project.
+## Special thanks
+Thank you [Zepto Segundo](https://www.facebook.com/zeptosegundo) for providing the podcasts for Chapter 10. Three podcasts and the cover image are based on [Memorias de Tiempos Perdidos](https://open.spotify.com/album/3rQzhEkevd2iAZ9j5Rvlnv): 
+Andromeda, Morir Con Honor and Ars Chimica.
