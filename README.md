@@ -44,3 +44,12 @@ Here is the quick description of the directory structures and the files:
 **Webhook/package.json** - Contains all the component dependencies needed to run server.js
 
 **Webhook/web.config** - Configuration file needed to deploy server.js to Microsoft Azure App Service.
+## Chapter 9
+**MyPodCast** - Android Auto Xamarin project.
+**resources/resources.zip** - Images and icons used by MyPodCast project.
+**MyPodCast.sln** - Use it to open Android Auto Xmarin project.
+## Chapter 10
+**MyPodCast** - Android Auto Xamarin project.
+**NodeJs** - Back-end RESP API that serves media content JSON. Implement GET podcasts method.
+**ressources** - Podcast files in MP3 and cover images.
+**MyPodCast.sln** - Use it to open Android Auto Xmarin project.
